@@ -1,0 +1,17 @@
+{
+  "skillsRoot": "D:\\skills",
+  "hubDir": "D:\\skill-hub-data",
+  "knowledgeRoots": [
+    { "id": "项目知识库", "path": "D:\\docs\\kb", "desc": "设计规范与踩坑记录" }
+  ],
+  "clients": {
+    "codex": "~/.codex/skills",
+    "qoder": "~/.qoder-cn/skills",
+    "workbuddy": "~/.workbuddy/skills",
+    "claude": "~/.claude/skills"
+  },
+  "instructionTargets": [
+    { "label": "DSH 全局", "path": "$DSH_HOME/AGENTS.md" },
+    { "label": "Codex 全局", "path": "~/.codex/AGENTS.md" }
+  ]
+}
